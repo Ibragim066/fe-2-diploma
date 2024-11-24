@@ -1,0 +1,10 @@
+.trains-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.trains-list__menu {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}

@@ -1,0 +1,30 @@
+.header__navbar {
+    box-sizing: border-box;
+    background-color: #292929;
+    color: #ffffff;
+}
+
+.header__navbar__list {
+    display: flex;
+    margin-left: 258px;
+    padding-left: 0;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    list-style-type: none;
+}
+
+.header__nav-item {
+    margin-right: 72px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.nav-link {
+    padding-left: 0;
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: none;
+    color: #ffffff;
+}
+

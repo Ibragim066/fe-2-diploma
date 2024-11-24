@@ -1,0 +1,53 @@
+.train-options-checkbox {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .train-options-checkbox__icon {
+    fill: #e5e5e5;
+  }
+  
+  .train-options-checkbox__title {
+    width: 102px;
+    margin-left: 35px;
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+  }
+  
+  .train-options-checkbox__selector {
+    position: relative;
+    width: 72px;
+    height: 20px;
+    margin-left: 33px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .train-options-checkbox__selector_on {
+    background-color: #fcdc9d;
+  }
+  
+  .train-options-checkbox__selector_off {
+    background-color: white; 
+  }
+  
+  .train-options-checkbox__handle {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+  }
+  
+  .train-options-checkbox__handle_on {
+    right: 0;
+    background-color: #ffa800;
+  }
+  
+  .train-options-checkbox__handle_off {
+    left: 0;
+    background-color: #c4c4c4;
+  }

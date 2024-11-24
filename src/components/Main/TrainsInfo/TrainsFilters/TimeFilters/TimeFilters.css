@@ -1,0 +1,97 @@
+.trains-time-filter__collapsed {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 29px 34px 31px 32px;
+  }
+  
+  .trains-time-filter__collapsed_exp {
+    padding-bottom: 20px;
+  }
+  
+  .trains-time-filter__arrow {
+    display: block;
+    fill: #ffa800;
+  }
+  
+  .trains-time-filter__title {
+    margin-left: 12px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .trains-time-filter__button {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin-left: auto;
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: transparent;
+  }
+  
+  .trains-time-filter__button::before {
+    content: "";
+    position: absolute;
+    left: 22%;
+    right: 22%;
+    top: 50%;
+    transform: translateY(-50%);
+    border-top: 2px solid white;
+  }
+  
+  .trains-time-filter__button::after {
+    content: "";
+    position: absolute;
+    top: 22%;
+    bottom: 22%;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 2px solid white;
+  }
+  
+  .trains-time-filter__button:hover {
+    border-color: #fcdc9d;
+  }
+  
+  .trains-time-filter__button:hover::before {
+    border-color: #fcdc9d;
+  }
+  
+  .trains-time-filter__button:hover::after {
+    border-color: #fcdc9d;
+  }
+  
+  .trains-time-filter__button_minus {
+    border-color: #c4c4c4;
+  }
+  
+  .trains-time-filter__button_minus::before {
+    border-color: #c4c4c4;
+  }
+  
+  .trains-time-filter__button_minus::after {
+    display: none;
+  }
+  
+  .trains-time-filter__full {
+    padding: 0 34px 68px 32px;
+  }
+  
+  .trains-time-filter__bar-title {
+    margin-top: 0;
+    color: #e5e5e5;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  
+  .trains-time-filter__bar-title_arrival {
+    margin-top: 84px;
+    text-align: right;
+  }
+  
+  .trains-time-filter__bar {
+    margin-top: 18px;
+    padding: 0 9px;
+  }

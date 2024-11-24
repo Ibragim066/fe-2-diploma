@@ -1,0 +1,133 @@
+.trains-list__item {
+    box-sizing: border-box;
+    display: flex;
+    width: 959px;
+    min-height: 266px;
+    margin-bottom: 47px;
+    border: solid 1px #C4C4C4;
+}
+
+.trains-list__item__description {
+    display: flex;
+    min-width: 197px;
+    flex-direction: column;
+    justify-content: center;
+    /* margin-right: 39px; */
+    background-color: #E4E0E9;
+}
+
+.trains-list__item__icon {
+    height: 86px;
+    width: 86px;
+    align-self: center;
+}
+
+.trains-list__item__route { 
+    margin-left: 26px;
+    margin-top: 15px;  
+}
+
+.trains-list__item__route-text {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #292929;
+}
+
+.trains-list__item__options-block {
+    box-sizing: border-box;
+    display: flex;
+    min-width: 485px;
+    margin-top: 50px;
+    justify-content: space-between;
+    padding-left: 39px;
+    padding-right: 39px;
+    border-right: solid 1px #E5E5E5;
+}
+
+.trains-list__item__options {
+    min-width: 155px;
+}
+
+.trains-list__item__time {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.trains-list__item__city {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: #3E3C41;
+}
+
+.trains-list__item__station {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    color: #928F94;
+}
+
+.trains-list__item__duration {
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+.trains-list__item__duration-time {
+    margin-top: 0;
+    font-size: 18px;
+    font-weight: 400;
+    color: #C4C4C4;
+}
+
+.trains-list__item__arrow {
+    text-align: center;
+}
+
+.trains-list__item__seats-block {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 27px;
+    width: 276px; 
+    margin-top: 41px;
+    padding-right: 22px;
+}
+
+.trains-list__item__seats-class__bottom {
+    display: flex;
+    flex-direction: column;
+}
+
+.trains-list__item__filter-icons {
+    align-self: flex-end;
+}
+
+.trains-list__item__filter-icon {
+    margin-right: 10px;
+}
+
+
+.trains-list__item__filter-icons:last-child {
+    margin-right: 0;
+}
+
+.trains-list__item__btn {
+    width: 228px;
+    height: 39px;
+    margin-top: 18px;
+    margin-bottom: 23px;
+    justify-self: end;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+    background-color: #FFA800;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

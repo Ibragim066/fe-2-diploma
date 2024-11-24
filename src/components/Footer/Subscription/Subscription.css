@@ -1,0 +1,42 @@
+.footer__subscribe {
+    box-sizing: border-box;
+    min-width: 447px;
+    color: #E5E5E5;
+}
+
+.footer__subscription__title {
+    font-size: 30px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.footer__subscription__label {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.footer__subscription__input {
+    box-sizing: border-box;
+    width: 351px;
+    height: 60px;
+    margin-right: 20px;
+    padding: 17px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.footer__subscribe__btn {
+    width: 169px;
+    height: 60px;
+    margin-bottom: 44px;
+    border: solid 1px #ffffff;
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    color: #E5E5E5;
+    background-color: transparent;
+    cursor: pointer;
+}

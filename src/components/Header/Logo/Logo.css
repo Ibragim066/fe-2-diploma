@@ -1,0 +1,12 @@
+.header__logo {
+    height: 64px;
+    padding-top: 15px;
+    padding-left: 258px;
+}
+
+.header__logo__link {
+    font-size: 36px;
+    font-weight: 900;
+    text-decoration: none;
+    color: #E5E5E5;
+}

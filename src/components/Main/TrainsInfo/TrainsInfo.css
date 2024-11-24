@@ -1,0 +1,10 @@
+.trains-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.trains__side {
+    min-width: 360px;
+    margin-right: 85px;
+    margin-left: 259px;
+}

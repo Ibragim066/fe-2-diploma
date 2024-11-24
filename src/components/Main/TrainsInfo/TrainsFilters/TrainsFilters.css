@@ -1,0 +1,56 @@
+.trains-filters {
+    background-color: #3e3c41;
+  }
+  
+  .trains-filters__dates {
+    padding: 43px 36px 33px 29px;
+  }
+  
+  .trains-filters__date-title {
+    display: block;
+    color: white;
+    font-size: 30px;
+    font-weight: normal;  
+  }
+  
+  .trains-filters__date-title:not(:first-child) {
+    padding-top: 26px;
+  }
+  
+  .trains-filters__date-container {
+    position: relative;
+    margin-top: 14px;
+  }
+
+  .trains-filters__datepicker {
+      width: 295px;
+      height: 43px;
+      padding-left: 8px;
+      font-size: 18px;
+  }
+  
+  .trains-filters__options {
+    padding: 29px 34px 26px 0;
+    border-top: 1px solid #e5e5e5;
+  }
+  
+  .trains-filters__price {
+    padding: 37px 34px 63px 32px;
+    border-top: 1px solid #e5e5e5;
+  }
+  
+  .trains-filters__price-title {
+    margin-top: 0;
+    color: white;
+    font-size: 30px;
+    font-weight: normal;
+  }
+  
+  .trains-filters__price-range-bar {
+    margin-top: 32px;
+    padding: 0 12px;
+  }
+  
+  .trains-filters__times {
+    border-top: 1px solid #e5e5e5;
+  }
