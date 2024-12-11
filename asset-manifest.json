@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fe-2-diploma/static/css/main.c00a2580.css",
+    "main.js": "/fe-2-diploma/static/js/main.d9297eed.js",
+    "static/js/453.53adb3af.chunk.js": "/fe-2-diploma/static/js/453.53adb3af.chunk.js",
+    "static/media/description_banner.png": "/fe-2-diploma/static/media/description_banner.2f68311b0436e88b859b.png",
+    "static/media/header_banner.svg": "/fe-2-diploma/static/media/header_banner.4bd0eb0ce3a70a3e9676.svg",
+    "static/media/avatar_evgeniy.jpg": "/fe-2-diploma/static/media/avatar_evgeniy.a027fef5652769292b99.jpg",
+    "static/media/avatar_ekaterina.jpg": "/fe-2-diploma/static/media/avatar_ekaterina.9642cf44e79f1aae5432.jpg",
+    "static/media/linkedin_icon.svg": "/fe-2-diploma/static/media/linkedin_icon.546ac4a6141984ff18b9c37371b6f8f0.svg",
+    "static/media/google_icon.svg": "/fe-2-diploma/static/media/google_icon.92c7f5aac04c3075df3285294345d7c0.svg",
+    "static/media/twitter_icon.svg": "/fe-2-diploma/static/media/twitter_icon.c2a078f703b68970c2e161bf03399185.svg",
+    "static/media/fb_icon.svg": "/fe-2-diploma/static/media/fb_icon.324f0383caec2e73bc1f6dfe1c1251dd.svg",
+    "static/media/youtube_icon.svg": "/fe-2-diploma/static/media/youtube_icon.20dcc7ee60cb6014e854f92246fb969f.svg",
+    "index.html": "/fe-2-diploma/index.html",
+    "main.c00a2580.css.map": "/fe-2-diploma/static/css/main.c00a2580.css.map",
+    "main.d9297eed.js.map": "/fe-2-diploma/static/js/main.d9297eed.js.map",
+    "453.53adb3af.chunk.js.map": "/fe-2-diploma/static/js/453.53adb3af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c00a2580.css",
+    "static/js/main.d9297eed.js"
+  ]
+}
